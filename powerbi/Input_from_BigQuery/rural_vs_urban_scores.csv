@@ -1,0 +1,4 @@
+LIBDENS,broadband_score,average_down_mbs,average_load_lat,average_upload_mbps
+Rural,33.17,297.68,391.82,219.97
+Intermediate urban,33.86,332.69,340.24,242.62
+Dense urban,34.35,359.0,308.96,259.57
